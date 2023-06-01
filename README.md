@@ -1,2 +1,2 @@
-# ubuntu-workspace
+# ubuntu-ws
 Custom ubuntu container workspace
